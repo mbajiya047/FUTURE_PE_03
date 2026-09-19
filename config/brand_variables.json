@@ -1,0 +1,131 @@
+{
+  "active_profile": "brightsmile_dental",
+  "profiles": {
+    "brightsmile_dental": {
+      "business_name": "BrightSmile Dental Clinic",
+      "business_type": "Multi-Specialty Dental Clinic",
+      "industry": "Healthcare & Dentistry",
+      "primary_service": "Dental Implants & Full Mouth Rehabilitation",
+      "target_audience": "Working professionals, senior citizens, and NRIs seeking permanent tooth replacement solutions in Bangalore",
+      "city_location": "Bangalore, Karnataka, India",
+      "micro_markets": [
+        "Indiranagar",
+        "Koramangala",
+        "Whitefield",
+        "HSR Layout",
+        "Jayanagar"
+      ],
+      "website_url": "https://brightsmiledental.in",
+      "business_goal": "Generate qualified consultation inquiries and high-ticket implant appointment bookings from local search traffic",
+      "brand_voice": {
+        "tone": "Authoritative, compassionate, clinically rigorous, transparent on costs",
+        "reading_level": "Grade 8–10 (accessible medical guidance without excessive jargon)"
+      },
+      "pillar_strategy": {
+        "primary_keyword": "dental implants in bangalore",
+        "search_intent": "Commercial Investigation & Local Transactional",
+        "suggested_h1": "The Complete Guide to Dental Implants in Bangalore: Procedure, Costs, Recovery & Specialist Selection",
+        "target_word_count": 2600,
+        "target_url": "/dental-implants-bangalore"
+      },
+      "supporting_cluster": [
+        {
+          "id": "cluster-1",
+          "title": "Dental Implant Cost in Bangalore (2026 Price Breakdown)",
+          "category": "Cost & Commercial",
+          "primary_keyword": "dental implant cost bangalore",
+          "secondary_keywords": [
+            "single tooth implant cost bangalore",
+            "full mouth dental implant cost bangalore",
+            "all on 4 dental implant price bangalore"
+          ],
+          "search_intent": "Commercial / Transactional",
+          "target_url": "/dental-implant-cost-bangalore",
+          "target_word_count": 1400,
+          "internal_link_anchor": "dental implant cost in Bangalore"
+        },
+        {
+          "id": "cluster-2",
+          "title": "How Long Does a Dental Implant Take? Procedure Stages & Healing Timeline",
+          "category": "Procedure & FAQ",
+          "primary_keyword": "dental implant procedure timeline bangalore",
+          "secondary_keywords": [
+            "how long do dental implants take",
+            "stages of dental implant healing",
+            "same day dental implants bangalore"
+          ],
+          "search_intent": "Informational",
+          "target_url": "/dental-implant-timeline-healing",
+          "target_word_count": 1250,
+          "internal_link_anchor": "dental implant procedure timeline"
+        },
+        {
+          "id": "cluster-3",
+          "title": "Are Dental Implants Safe? Success Rates, Risks & Candidate Checklist",
+          "category": "Safety & Candidacy",
+          "primary_keyword": "are dental implants safe",
+          "secondary_keywords": [
+            "dental implant success rate india",
+            "dental implant failure signs",
+            "dental implants for diabetic patients bangalore"
+          ],
+          "search_intent": "Informational / Evaluation",
+          "target_url": "/are-dental-implants-safe",
+          "target_word_count": 1300,
+          "internal_link_anchor": "safety and success rate of dental implants"
+        },
+        {
+          "id": "cluster-4",
+          "title": "Dental Implant Aftercare Guide: Diet, Pain Management & Long-Term Hygiene",
+          "category": "Aftercare & Recovery",
+          "primary_keyword": "dental implant aftercare instructions",
+          "secondary_keywords": [
+            "what to eat after dental implant surgery",
+            "dental implant recovery tips",
+            "how to clean dental implants"
+          ],
+          "search_intent": "Informational / Post-Care",
+          "target_url": "/dental-implant-aftercare-guide",
+          "target_word_count": 1150,
+          "internal_link_anchor": "dental implant recovery and aftercare guide"
+        }
+      ],
+      "conversion_elements": {
+        "primary_cta": "Book a Zero-Obligation 3D CBCT Implant Assessment at our Indiranagar Clinic",
+        "secondary_cta": "Download our 2026 Bangalore Dental Implant Pricing & Treatment Checklist (PDF)",
+        "contact_phone": "+91 80 4920 8800",
+        "address": "100ft Road, HAL 2nd Stage, Indiranagar, Bangalore 560038"
+      }
+    },
+    "apex_academy": {
+      "business_name": "Apex JEE & NEET Academy",
+      "business_type": "Competitive Coaching Institute",
+      "industry": "Education & Test Prep",
+      "primary_service": "Classroom & Foundation Coaching for JEE Advanced and NEET",
+      "target_audience": "High school students (Grades 9–12) and parents seeking top rank coaching in Kota and Jaipur",
+      "city_location": "Kota, Rajasthan, India",
+      "micro_markets": ["Vigyan Nagar", "Talwandi", "Indraprastha Area", "Mahaveer Nagar"],
+      "website_url": "https://apexjeeacademy.in",
+      "business_goal": "Drive student admissions and scholarship test registrations for upcoming academic batch",
+      "brand_voice": {
+        "tone": "Motivating, structured, academic, results-proven",
+        "reading_level": "Grade 9–12"
+      }
+    },
+    "nexaflow_saas": {
+      "business_name": "NexaFlow",
+      "business_type": "B2B SaaS Platform",
+      "industry": "Software & Customer Experience",
+      "primary_service": "Autonomous Customer Support Workflow Automation",
+      "target_audience": "Heads of Customer Support, VP Operations, and E-commerce Directors managing 5,000+ tickets/month",
+      "city_location": "San Francisco, CA & Bengaluru, India",
+      "micro_markets": ["Global English Web", "SaaS Hub Bengaluru"],
+      "website_url": "https://nexaflow.io",
+      "business_goal": "Drive qualified product demo bookings and 14-day enterprise trials",
+      "brand_voice": {
+        "tone": "Pragmatic, metrics-driven, modern tech, hype-free",
+        "reading_level": "Professional B2B"
+      }
+    }
+  }
+}
